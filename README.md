@@ -109,6 +109,17 @@ I am the Founder of VIT GLOBAL TECHNOLOGIES GROUP, a technology company focused 
 
 ⸻
 
+## 📊 Statistiques GitHub | GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Menezndri2023&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+
+## 💻 Langages les plus utilisés | Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Menezndri2023&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+⸻
+
+
 Construire la technologie. Créer des opportunités. Penser globalement.
 
 Building technology. Creating opportunities. Thinking globally.

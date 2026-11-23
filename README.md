@@ -119,6 +119,61 @@ I am the Founder of VIT GLOBAL TECHNOLOGIES GROUP, a technology company focused 
 
 ⸻
 
+🚀 Projets sélectionnés | Featured Projects
+
+Découvrez quelques-uns des projets que je développe dans le domaine des technologies, des logiciels et des solutions numériques.
+
+Explore some of the projects I build in software development, technology and digital solutions.
+
+1. Portfolio personnel | Personal Portfolio
+
+🔗 Portfolio-personnel
+
+🇫🇷 Mon portfolio professionnel présentant mon parcours, mes compétences, mes réalisations et mes projets technologiques.
+
+🇬🇧 My professional portfolio showcasing my background, skills, achievements and technology projects.
+
+2. VIT GLOBAL TECHNOLOGIES GROUP
+
+🔗 vit-global-technologies · Site officiel
+
+🇫🇷 Le site institutionnel de mon entreprise technologique, spécialisée dans le développement et la commercialisation de solutions numériques.
+
+🇬🇧 The corporate website of my technology company, focused on developing and delivering digital solutions.
+
+3. KORVA OS
+
+🔗 korva-os
+
+🇫🇷 Une plateforme SaaS destinée aux entreprises, intégrant des fonctionnalités de gestion, de commerce, de réservation et d’automatisation.
+
+🇬🇧 A business-oriented SaaS platform integrating management, commerce, booking and automation capabilities.
+
+4. VIT SELLERKIT
+
+🔗 Vit-SellerKit
+
+🇫🇷 Une solution numérique orientée vers les vendeurs et la gestion de leurs activités commerciales.
+
+🇬🇧 A digital solution focused on sellers and the management of their commercial activities.
+
+5. VIT AUTO
+
+🔗 vit-auto
+
+🇫🇷 Une plateforme automobile digitale facilitant la mise en relation entre les professionnels de l’automobile et les clients.
+
+🇬🇧 A digital automotive platform connecting automotive professionals with customers.
+
+6. VITPAY
+
+🔗 VitPay
+
+🇫🇷 Un projet FinTech consacré au développement d’une solution de paiement numérique, actuellement en phase de développement et de validation.
+
+🇬🇧 A FinTech project focused on developing a digital payment solution, currently undergoing development and validation.
+
+⸻
 
 Construire la technologie. Créer des opportunités. Penser globalement.
 
